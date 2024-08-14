@@ -1,6 +1,5 @@
 <div align="center">
   
-  <img src="./readme-images/project-logo.png" />
 
   <h2 align="center">Odilov Abdullokh - Personal portfolio</h2>
 
